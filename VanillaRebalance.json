@@ -1,0 +1,17 @@
+{
+  "id": "VanillaRebalance",
+  "name": "Vanilla Rebalance",
+  "display_name": "Vanilla Rebalance",
+  "author": [
+    "Vanilla Rebalance contributors"
+  ],
+  "description": "Self-contained rework of selected vanilla Stakes, stickers, Jokers, Vouchers, Spectral cards, enhancements, poker-hand level gains, and Ante 10 bosses.",
+  "prefix": "vrb",
+  "main_file": "main.lua",
+  "priority": 100,
+  "badge_colour": "7B68EE",
+  "version": "1.0.6",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-1620a)"
+  ]
+}
